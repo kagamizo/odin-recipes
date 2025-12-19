@@ -1,0 +1,109 @@
+body{
+    width:600px;
+    margin:auto;
+    background-color:lightyellow;
+}
+.lasagna{
+display:block;
+padding:10px;
+background-color:lightpink;
+margin:6px;
+}
+.garlicbread{
+display:block;
+padding:10px;
+background-color: lightgreen;
+margin:6px;
+}
+.enchiladas{
+display:block;
+padding:10px;
+background-color: lightcoral;
+margin:6px;
+
+}
+.enchiladascard{
+display:block;
+padding:10px;
+background-color: lightcoral;
+margin:6px;
+border-radius:3px;
+font-family:Ubuntu,sans-serif;
+
+}
+.enchiladasingredients{
+display:block;
+padding:10px;
+background-color: lightcoral;
+margin:6px;
+border-radius:3px;
+font-family:Ubuntu,sans-serif;
+
+}
+.enchiladassteps{
+display:block;
+padding:10px;
+background-color: lightcoral;
+margin:6px;
+border-radius:3px;
+}
+
+.lasagnacard{
+display:block;
+padding:10px;
+background-color:lightpink;
+margin:6px;
+border-radius:3px;
+margin-bottom:10px;
+font-family:Ubuntu,sans-serif;
+font-family:Ubuntu,sans-serif;
+
+
+}
+.lasagnaingredients{
+display:block;
+padding:10px;
+background-color:lightpink;
+margin:6px;
+border-radius:3px;
+margin-bottom:10px;
+font-family:Ubuntu,sans-serif;
+
+}
+.lasagnasteps{
+display:block;
+padding:10px;
+background-color:lightpink;
+margin:6px;
+border-radius:3px;
+margin-bottom:10px;
+font-family:Ubuntu,sans-serif;
+
+}
+.garlicbreadcard{
+    display:block;
+padding:10px;
+background-color: lightgreen;
+margin:6px;
+border-radius:3px;
+font-family:Ubuntu,sans-serif;
+
+}
+.garlicbreadingredients{
+ display:block;
+padding:10px;
+background-color: lightgreen;
+margin:6px;
+border-radius:3px;
+font-family:Ubuntu,sans-serif;
+
+}
+.garlicbreadsteps{
+ display:block;
+padding:10px;
+background-color: lightgreen;
+margin:6px;
+border-radius:3px;
+font-family:Ubuntu,sans-serif;
+
+}
